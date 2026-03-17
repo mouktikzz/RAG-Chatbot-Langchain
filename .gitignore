@@ -28,3 +28,6 @@ vector_db/
 # System
 .DS_Store
 Thumbs.db
+
+# Git
+.gitignore
